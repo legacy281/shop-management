@@ -1,0 +1,5 @@
+C:\Users\ACER\Desktop\PBL8888\obj\Debug\net6.0\PBL8888.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\PBL8888\obj\Debug\net6.0\PBL8888.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\PBL8888\obj\Debug\net6.0\PBL8888.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\PBL8888\obj\Debug\net6.0\PBL8888.AssemblyInfo.cs
+C:\Users\ACER\Desktop\PBL8888\obj\Debug\net6.0\PBL8888.csproj.CoreCompileInputs.cache
